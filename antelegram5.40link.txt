@@ -1,1 +1,1 @@
-2||https://telegram.org/faq||https://telegram.org/faq
+||https://telegram.org/faq||https://telegram.org/faq
